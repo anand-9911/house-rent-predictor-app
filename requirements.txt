@@ -2,20 +2,20 @@
 
 
 jupyter==1.0.0
-jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1594826976318/work
+
 jupyter-console==6.1.0
 jupyter-core==4.6.3
 jupyterlab==2.1.5
-jupyterlab-server @ file:///tmp/build/80754af9/jupyterlab_server_1594164409481/work
 
-matplotlib @ file:///C:/ci/matplotlib-base_1592837548929/work
+
+
 
 notebook==6.0.3
 
 numpy==1.18.5
 
 packaging==20.4
-pandas @ file:///C:/ci/pandas_1592833613419/work
+
 
 pickleshare==0.7.5
 
@@ -23,8 +23,8 @@ pipreqs==0.4.10
 
 
 scikit-image==0.16.2
-scikit-learn @ file:///C:/ci/scikit-learn_1592853510272/work
-scipy @ file:///C:/ci/scipy_1592916963468/work
+
+
 seaborn==0.10.1
 
 streamlit==0.71.0
