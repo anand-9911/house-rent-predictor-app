@@ -1,7 +1,6 @@
 
 
 
-joblib @ file:///tmp/build/80754af9/joblib_1594236160679/work
 jupyter==1.0.0
 jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1594826976318/work
 jupyter-console==6.1.0
