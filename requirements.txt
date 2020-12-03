@@ -11,7 +11,9 @@ jupyterlab==2.1.5
 
 
 notebook==6.0.3
-
+pandas
+pickle
+scikit-learn
 numpy==1.18.5
 
 packaging==20.4
